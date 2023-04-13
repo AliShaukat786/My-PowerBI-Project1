@@ -10,3 +10,4 @@ For this porpose i show it in pie chart, baarchart, donate chart etc.
 
 [PowerBI.HR.docx](https://app.powerbi.com/groups/me/reports/c5af85a2-d7da-4f65-8636-fc674b23e153/ReportSection)
 
+![Screenshot 2023-04-14 001236](https://user-images.githubusercontent.com/129103686/231907545-d979365a-01f5-4d5c-8865-30e2f0287b25.png)
