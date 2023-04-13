@@ -7,8 +7,4 @@ ater all changes i create my dash board its show how many  overall employees, At
 For this porpose i show it in pie chartbaarchart donate chart etc.
 
 
-
-
-[PowerBI.HR.docx](https://github.com/AliShaukat786/My-PowerBI-Project1/files/11224194/PowerBI.HR.docx)
-
-
+[PowerBI.HR.docx](https://github.com/AliShaukat786/My-PowerBI-Project1/files/11224352/PowerBI.HR.docx)
