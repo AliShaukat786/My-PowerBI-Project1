@@ -8,5 +8,5 @@ For this porpose i show it in pie chart, baarchart, donate chart etc.
 
 [PowerBI.HR.docx](https://github.com/AliShaukat786/My-PowerBI-Project1/files/11225252/PowerBI.HR.docx)
 
-
+[PowerBI.HR.docx](https://app.powerbi.com/groups/me/reports/c5af85a2-d7da-4f65-8636-fc674b23e153/ReportSection)
 
