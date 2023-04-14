@@ -6,8 +6,10 @@ then i change Use the first rows header hten close. i create  columns,  Attritio
 ater all changes i create my dash board its show how many  overall employees, Attrition employees, attrition rate, active employeesand avrage rate of employees.
 For this porpose i show it in pie chart, baarchart, donate chart etc.
 
-[PowerBI.HR.docx](https://github.com/AliShaukat786/My-PowerBI-Project1/files/11225252/PowerBI.HR.docx)
+
+![Screenshot 2023-04-14 001236](https://user-images.githubusercontent.com/129103686/231907545-d979365a-01f5-4d5c-8865-30e2f0287b25.png)
 
 [PowerBI.HR.docx](https://app.powerbi.com/groups/me/reports/c5af85a2-d7da-4f65-8636-fc674b23e153/ReportSection)
 
-![Screenshot 2023-04-14 001236](https://user-images.githubusercontent.com/129103686/231907545-d979365a-01f5-4d5c-8865-30e2f0287b25.png)
+
+
