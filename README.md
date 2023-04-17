@@ -1,4 +1,4 @@
-# My-PowerBI-HR_DATA Project 
+# My-PowerBI (HR-DATA) Project 
 For this project i used to the HR data 
 First i uploaded the data in exel after then   i trasfor the the data to PowerBI
 there is 1500 rows and 41 columns, its raw data i use command tranformt data then i see colums mentions A,B,C...
