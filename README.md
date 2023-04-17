@@ -1,9 +1,9 @@
-# My-PowerBI (HR-DATA) Project 
-For this project i used to the HR data 
-First i uploaded the data in exel after then   i trasfor the the data to PowerBI
-there is 1500 rows and 41 columns, its raw data i use command tranformt data then i see colums mentions A,B,C...
-then i change Use the first rows header hten close. i create  columns,  Attrition,  attrition count, age sorting
-ater all changes i create my dash board its show how many  overall employees, Attrition employees, attrition rate, active employeesand avrage rate of employees.
+# My-PowerBI (HR-DATA)
+Aim of using PowerBI to See total employees,Attrition(left) employees,Attrition rate, total active employees and avrage rate employees of HR data
+For this porpose i used to the HR data 
+First i uploaded the data from exel, then i trasfor the the data to PowerBI
+there is 1500 rows and 41 columns, the data is raw data, i tranformt data then i see colums mentions A,B,C... i change colums to rows, Use the first rows header,i create  columns,  Attrition,  attrition count, age sorting
+ater all changes i create my dash board its shows total employees, Attrition employees, attrition rate, active employeesand avrage rate of employees.
 For this porpose i show it in pie chart, baarchart, donate chart etc.
 
 
