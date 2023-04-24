@@ -3,7 +3,7 @@ Aim of using PowerBI to See total employees,Attrition(left) employees,Attrition 
 For this porpose i used to the HR data 
 First i uploaded the data from exel, then i trasfor the the data to PowerBI
 there is 1500 rows and 41 columns, the data is raw data, i tranformt data then i see colums mentions A,B,C... i change colums to rows, Use the first rows header,i create  columns,  Attrition,  attrition count, age sorting
-ater all changes i create my dash board its shows total employees, Attrition employees, attrition rate, active employeesand avrage rate of employees.
+after all changes i create my dash board its shows total employees, Attrition employees, attrition rate, active employeesand avrage rate of employees.
 For this porpose i show it in pie chart, baarchart, donate chart etc.
 
 
